@@ -1,0 +1,105 @@
+[project]
+site_url = "https://harpo.me/"
+site_name = "Harpo!"
+site_description = "Ryan Harbert — musician, technician, designer."
+site_author = "Ryan Harbert"
+copyright = "Copyright &copy; Ryan Harbert"
+
+nav = [
+  { "Home" = "index.md" },
+  { "About" = "about.md" },
+  { "Projects" = [
+    { "All projects" = "projects/index.md" },
+    { "5 Fun Facts About Me" = "projects/5-fun-facts-about-me.md" },
+    { "Adonai" = "projects/adonai.md" },
+    { "Corona Chords" = "projects/corona-chords.md" },
+    { "Greater Tuna" = "projects/greater-tuna.md" },
+    { "Harpo & Holophonor @ Home" = "projects/harpo-amp-holophonor-home.md" },
+    { "Harpo & the Holophonor — Backyard Party" = "projects/harpo-amp-the-holophonor-backyard-party.md" },
+    { "Holophonor" = "projects/holophonor.md" },
+    { "Ira — Interactive, Reactive, Autonomous LEDs" = "projects/ira.md" },
+    { "LaunchChess" = "projects/launchchess.md" },
+    { "Pre-visualization" = "projects/pre-visualization.md" },
+    { "Cesar and Rubin" = "projects/projection-design.md" },
+    { "Quaternion Media" = "projects/quaternion-media.md" },
+    { "Ready, Set, Jazz!" = "projects/ready-set-jazz.md" },
+    { "Ready Set Jazz! Backyard Reunion" = "projects/ready-set-jazz-backyard-reunion.md" },
+    { "Rocky Horror — 2013" = "projects/rocky-horror-2013.md" },
+    { "dell’Arte Productions" = "projects/dellarte-productions.md" },
+    { "Selected Reel" = "projects/selected-reel.md" },
+    { "Socially Distanced Backyard Party" = "projects/socially-distanced-backyard-party.md" },
+    { "Sound Reactive EL Wire Coat" = "projects/sound-reactive-el-wire-coat.md" },
+    { "The Apple Strudelers" = "projects/the-apple-strudelers.md" },
+    { "The Elaine Lord Band" = "projects/the-elaine-lord-band.md" },
+    { "The OomPah Kings — Oktoberfest 2021" = "projects/the-oompah-kings-oktoberfest-2021.md" },
+    { "TocCATa and Fugue — Halloween Light Show" = "projects/toccata-and-fugue-halloween-light-show.md" },
+  ] },
+  { "Acting" = "acting.md" },
+  { "Cesar & Rubin" = "cesarrubin.md" },
+  { "OomPah Kings" = "oompah-kings.md" },
+  { "Events" = "events.md" },
+  { "Hire me" = "hire.md" },
+  { "Sponsor" = "sponsor.md" },
+  { "Contact" = "contact.md" },
+  { "Tags" = "tags.md" },
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+  "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+extra_css = ["assets/stylesheets/extra.css"]
+
+[project.plugins.tags]
+tags_file = "tags.md"
+
+[project.markdown_extensions]
+abbr = {}
+admonition = {}
+attr_list = {}
+def_list = {}
+footnotes = {}
+md_in_html = {}
+toc.permalink = true
+pymdownx.betterem = {}
+pymdownx.caret = {}
+pymdownx.details = {}
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.highlight.anchor_linenums = true
+pymdownx.highlight.line_spans = "__span"
+pymdownx.highlight.pygments_lang_class = true
+pymdownx.inlinehilite = {}
+pymdownx.keys = {}
+pymdownx.magiclink = {}
+pymdownx.mark = {}
+pymdownx.smartsymbols = {}
+pymdownx.superfences = {}
+pymdownx.tabbed.alternate_style = true
+pymdownx.tilde = {}
