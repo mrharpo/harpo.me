@@ -1,14 +1,10 @@
 [project]
 name = "harpo-me"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.1"
+description = "Website for Harpo"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = [
-    "zensical>=0.0.62",
-]
+dependencies = ["zensical>=0.0.62"]
 
 [dependency-groups]
-dev = [
-    "markdownify>=0.13",
-]
+dev = ["markdownify>=0.13"]
