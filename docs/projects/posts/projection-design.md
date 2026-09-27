@@ -6,7 +6,7 @@ tags:
   - tech
 ---
 
-![](assets/Cesar-and-Ruben.png)
+![](../../assets/Cesar-and-Ruben.png)
 
 ### A musical by Ed Begely Jr.
 
@@ -23,15 +23,15 @@ Sacramento, CA
 - Sound Design
 - Technical Direction
 
-![](assets/c_r-poster.png)
-![](assets/untitled-f036838.jpg)
-![](assets/untitled-f012533.jpg)
-![](assets/untitled-f056276.jpg)
-![](assets/untitled-f049565.jpg)
-![](assets/untitled-f035543.jpg)
-![](assets/untitled-f087924.jpg)
-![](assets/untitled-f059971.jpg)
-![](assets/untitled-f101152.jpg)
+![](../../assets/c_r-poster.png)
+![](../../assets/untitled-f036838.jpg)
+![](../../assets/untitled-f012533.jpg)
+![](../../assets/untitled-f056276.jpg)
+![](../../assets/untitled-f049565.jpg)
+![](../../assets/untitled-f035543.jpg)
+![](../../assets/untitled-f087924.jpg)
+![](../../assets/untitled-f059971.jpg)
+![](../../assets/untitled-f101152.jpg)
 
 In addition, I created a custom control library to interface between the lighting, sound, and projections to keep everything synchronized, and fire all cues from a single stage management system (QLab).
 

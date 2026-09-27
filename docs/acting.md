@@ -2,6 +2,6 @@
 title: 'acting'
 ---
 
-![](assets/4.jpg)
+![](../../assets/4.jpg)
 
 # acting

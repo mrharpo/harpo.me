@@ -13,10 +13,10 @@ I was chosen as one of several Sacramento area musicians and artist to write a s
 
 Here’s the song I wrote, performed, and produced: “Care About You”
 
-![](assets/124268371_365310551415234_3246849722528747604_n.jpg)
-![](assets/124201392_1797166180421821_4547913841625293697_n.jpg)
-![](assets/img_0385.jpg)
-![](assets/124597629_413931079604169_2116291682545999526_n.jpg)
+![](../../assets/124268371_365310551415234_3246849722528747604_n.jpg)
+![](../../assets/124201392_1797166180421821_4547913841625293697_n.jpg)
+![](../../assets/img_0385.jpg)
+![](../../assets/124597629_413931079604169_2116291682545999526_n.jpg)
 
 Collaborating during lockdown conditions was certainly a difficult challenge. The experience taught us all lots, and allowed some unique opportunities to create art in new ways!
 

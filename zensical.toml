@@ -1,5 +1,5 @@
 [project]
-site_url = "https://harpo.me/"
+site_url = "https://mrharpo.github.io/harpo.me/"
 site_name = "Harpo!"
 site_description = "Music and tech Wizardry"
 site_author = "Harpo"
@@ -19,10 +19,19 @@ nav = [
 # extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
+[project.extra.tags]
+music = "music"
+theater = "theater"
+tech = "tech"
+lighting = "lighting"
+sound = "sound"
+projections = "projections"
+
 [project.plugins.blog]
 blog_dir = "projects"
 
 [project.plugins.glightbox]
+auto_caption = true
 
 [project.plugins.tags]
 
@@ -64,6 +73,14 @@ features = [
 
 # [project.theme.icon]
 # logo = "lucide/smile"
+[project.theme.icon.tag]
+default = "lucide/hash"
+music = "lucide/music"
+theater = "lucide/drama"
+tech = "lucide/ethernet-port"
+lighting = "lucide/spotlight"
+sound = "lucide/mic-vocal"
+projections = "lucide/projector"
 
 # [project.theme.font]
 # text = "Inter"
@@ -92,6 +109,7 @@ admonition = {}
 attr_list = {}
 def_list = {}
 footnotes = {}
+meta = {}
 md_in_html = {}
 toc = { permalink = true }
 

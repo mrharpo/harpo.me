@@ -3,6 +3,7 @@ title: 'TocCATa and Fugue - Halloween Light Show'
 date: 2021-10-17
 tags:
   - tech
+  - lighting
 ---
 
 This year for Halloween, I turned my apartment building into a…
@@ -27,7 +28,7 @@ This year for Halloween, I turned my apartment building into a…
 - 2 x Light up cardboard cat eyes
 - Lots of extension cords, connectors, and DMX cables!
 
-![ Original concept art ](assets/20211013_154031.jpg) Original concept art
+![ Original concept art ](../../assets/20211013_154031.jpg) Original concept art
 
 All hardware obtained either for free, or purchased for in previous years.
 

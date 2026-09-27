@@ -5,7 +5,7 @@ tags:
   - theater
 ---
 
-![  dell’Arte :  Italian  For the art /  For the business ](assets/dellarte_logo-01__50__.jpg) dell’Arte : Italian For the art / For the business
+![  dell’Arte :  Italian  For the art /  For the business ](../../assets/dellarte_logo-01__50__.jpg) dell’Arte : Italian For the art / For the business
 
 For over 10 years, I have produced videos, music, projections, and many other art works in the Sacramento area, and beyond!
 

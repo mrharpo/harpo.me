@@ -2,7 +2,7 @@
 title: 'About me'
 ---
 
-![](assets/C74F8DC3-0360-4544-9E4D-53AC697E3590.jpeg)
+![](../../assets/C74F8DC3-0360-4544-9E4D-53AC697E3590.jpeg)
 
 # Hi!
 
@@ -21,7 +21,7 @@ I’m a:
 
 Co-founder of [Quaternion Media](https://quaternion.media)
 
-![](assets/1277543_579932695377622_866216691_o.jpg)
+![](../../assets/1277543_579932695377622_866216691_o.jpg)
 
 ## **Bio**
 
@@ -41,32 +41,32 @@ Harpo is currently the Technical Director for the El Camino High School Performi
 
 With his company, *dell’Arte Productions*, he creates video and audio of all kinds in the form of commercials, documentaries, albums, music videos, industrial films, and many others. His video work started long before forming a company or obtaining a degree in Digital Media, and represents a lifelong passion for capturing excellent images and sounds.
 
-![Burning Man, 2014](assets/gunther_sax.jpg)
+![Burning Man, 2014](../../assets/gunther_sax.jpg){data-gallery="Harpo"}
 
-![Holophonor - 2017](assets/h1_sync1b.jpg)
+![Holophonor - 2017](../../assets/h1_sync1b.jpg){data-gallery="Harpo"}
 
-![Burning Man - 2014](assets/1277543_579932695377622_866216691_o.jpg)
+![Burning Man - 2014](../../assets/1277543_579932695377622_866216691_o.jpg){data-gallery="Harpo"}
 
-![Straw Hat Pizza](assets/170321-Elaine_Lord_Four-062.jpg)
+![Straw Hat Pizza](../../assets/170321-Elaine_Lord_Four-062.jpg){data-gallery="Harpo"}
 
-![560656_379118125459081_825758251_n.jpg](assets/560656_379118125459081_825758251_n.jpg)
+![560656_379118125459081_825758251_n.jpg](../../assets/560656_379118125459081_825758251_n.jpg){data-gallery="Harpo"}
 
-![12534_545153990133_5948287_n.jpg](assets/12534_545153990133_5948287_n.jpg)
+![12534_545153990133_5948287_n.jpg](../../assets/12534_545153990133_5948287_n.jpg){data-gallery="Harpo"}
 
-![621597_868904975563_1074965140_o.jpg](assets/621597_868904975563_1074965140_o.jpg)
+![621597_868904975563_1074965140_o.jpg](../../assets/621597_868904975563_1074965140_o.jpg){data-gallery="Harpo"}
 
-![55351_887109758033_488496377_o.jpg](assets/55351_887109758033_488496377_o.jpg)
+![55351_887109758033_488496377_o.jpg](../../assets/55351_887109758033_488496377_o.jpg){data-gallery="Harpo"}
 
-![Harpo-wall.jpg](assets/Harpo-wall.jpg)
+![Harpo-wall.jpg](../../assets/Harpo-wall.jpg){data-gallery="Harpo"}
 
-![image-asset.jpeg](assets/image-asset.jpeg)
+![image-asset.jpeg](../../assets/image-asset.jpeg){data-gallery="Harpo"}
 
-![4411343495_ed1d5181a2_o.jpg](assets/4411343495_ed1d5181a2_o.jpg)
+![4411343495_ed1d5181a2_o.jpg](../../assets/4411343495_ed1d5181a2_o.jpg){data-gallery="Harpo"}
 
-![image3.jpeg](assets/image3.jpeg)
+![image3.jpeg](../../assets/image3.jpeg){data-gallery="Harpo"}
 
-![67186_596116520813_2222940_n.jpg](assets/67186_596116520813_2222940_n.jpg)
+![67186_596116520813_2222940_n.jpg](../../assets/67186_596116520813_2222940_n.jpg){data-gallery="Harpo"}
 
-![Harpo-sax+small.jpg](assets/Harpo-sax_small.jpg)
+![Harpo-sax+small.jpg](../../assets/Harpo-sax_small.jpg){data-gallery="Harpo"}
 
-![1277543_579932695377622_866216691_o-square.jpg](assets/1277543_579932695377622_866216691_o-square.jpg)
+![1277543_579932695377622_866216691_o-square.jpg](../../assets/1277543_579932695377622_866216691_o-square.jpg){data-gallery="Harpo"}

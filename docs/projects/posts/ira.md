@@ -5,7 +5,7 @@ tags:
   - tech
 ---
 
-![ Ira - onstage!  Full video available here  ](assets/ira.gif) Ira - onstage! Full video available here
+![ Ira - onstage!  Full video available here  ](../../assets/ira.gif) Ira - onstage! Full video available here
 
 ### Ira - an **Interactive**, **Reactive**, **Autonomous** LED Controller
 
@@ -30,7 +30,7 @@ Theses are just a few examples of variable parameters that can be controlled dyn
 
 ### Reliability
 
-![ One Arduino to controll the lights, another to listen the DMX signal ](assets/ira-circuit.jpg) One Arduino to controll the lights, another to listen the DMX signal
+![ One Arduino to controll the lights, another to listen the DMX signal ](../../assets/ira-circuit.jpg) One Arduino to controll the lights, another to listen the DMX signal
 
 For home applications, a simple python script running a web server is enough to control the application from a phone over a wifi network. Any reliability issues can be dealt with by resending a message.
 
