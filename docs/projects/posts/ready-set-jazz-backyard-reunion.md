@@ -9,6 +9,9 @@ We’re putting the band back together!
 
 For the first time in two years, please welcome *Ready Set Jazz!* for an evening of live jams and grooves!
 
+![](../../assets/rsj-live-backyard.webp){ width="500" }
+<!-- more -->
+
 #### Featuring:
 
 **Harpo** - Sax

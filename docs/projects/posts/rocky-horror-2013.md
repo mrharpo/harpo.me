@@ -4,10 +4,10 @@ date: 2021-07-28
 tags:
   - theater
 ---
+The only thing more bizarre than the *Rocky Horror Picture Show* is seeing *Rocky* ***Live!***
 
-#### The only thing more bizarre than the *Rocky Horror Picture Show* is seeing *Rocky* *Live!*
-
-![ Let's do the *Time Warp* again! ](../../assets/10498516_1527557630797908_1223917157036545027_o.jpg) Let's do the \*Time Warp\* again!
+![ Let's do the *Time Warp* again! ](../../assets/10498516_1527557630797908_1223917157036545027_o.jpg){ width="500" }
+<!-- more -->
 
 The annual Fall (Halloween) production highlights [Green Valley Theatre Company](https://greenvalleytheatre.com)’s season, and this year was no different!
 

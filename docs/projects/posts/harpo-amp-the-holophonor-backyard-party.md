@@ -7,6 +7,9 @@ tags:
 
 When the shows are all still cancelled, bring the shows to the people!
 
+![Holophonor Backyard Party](../../assets/Holophonor-backyard.webp){ width="500" }
+<!-- more -->
+
 ### The Holophonor goes on Tour!
 
 With a car full of gear, we attempted something never before done: playing the Holophonor on the road (not far, but still on the road!), while livestreaming the entire evening for everyone to enjoy!

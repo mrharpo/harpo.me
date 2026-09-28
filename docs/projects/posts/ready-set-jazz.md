@@ -5,9 +5,12 @@ tags:
   - music
 ---
 
-### Need jazz? We’re ready!
+Need jazz? We’re ready!
 
 Music for any occasion!
+
+![](../../assets/rsj-logo.webp){ width="500" }
+<!-- more -->
 
 With a rotating cast of musicians, *Ready, Set, Jazz!* delivers excellent live music for all environments. It’s more than just jazz, it’s rock, R&B, funk, pop, blues, and even some musical theatre!
 

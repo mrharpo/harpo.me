@@ -4,8 +4,10 @@ date: 2021-07-20
 tags:
   - tech
 ---
+Realtime LED pixel controll with Ira
 
-![ Ira - onstage!  Full video available here  ](../../assets/ira.gif) Ira - onstage! Full video available here
+![ Realtime LED pixel controll ](../../assets/ira.gif)
+<!-- more -->
 
 ### Ira - an **Interactive**, **Reactive**, **Autonomous** LED Controller
 

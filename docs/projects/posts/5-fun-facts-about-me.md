@@ -4,8 +4,12 @@ date: 2021-08-02
 tags:
   - personal
 ---
+Hi! I’m Harpo!
 
-![ Hi! I’m Harpo! And here’s some interesting things you might not know about me! ](../../assets/4D9B0830-A680-4356-9CF9-112EB8931E09.jpeg) Hi! I’m Harpo! And here’s some interesting things you might not know about me!
+![ Hi! I’m Harpo! ](../../assets/4D9B0830-A680-4356-9CF9-112EB8931E09.jpeg){width="300" }
+
+And here’s some interesting things you might not know about me!
+<!-- more -->
 
 ### 1. I’ve lost track of how many instruments I play
 

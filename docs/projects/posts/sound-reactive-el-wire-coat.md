@@ -4,14 +4,18 @@ date: 2021-07-15
 tags:
   - tech
 ---
+A sound reactive EL wire coat I made for *Burning Man*
 
-### From Parties to Playa
+![](../../assets/_1220578.jpg){ width="300" }
 
-When in the middle of the desert in the dead of night, it helps to have a little illumination with you!
+<!-- more -->
+# EL wire coat
 
 This is a sound activated, light up EL wire trench coat and top hat, with independent, adjustable threshold controls for each.
 
-I created this in 2012 for use at Burning Man. It made two appearances in the desert, as well as many more to events since then.
+I created this in 2012 for use at Burning Man. When in the middle of the desert in the dead of night, it helps to have a little illumination with you!
+
+It made two appearances in the desert, as well as many more to events since then.
 
 All parts were aquired on ebay.
 
@@ -35,7 +39,6 @@ I sewed the sound module to live inside the jacket pocket for easy switch access
 ![](../../assets/_1220597-Edit.jpg)
 ![](../../assets/_1220592-Edit.jpg)
 ![](../../assets/_1220588.jpg)
-![](../../assets/_1220578.jpg)
 
 In the end, it was a fantastic learning project that taught me so much about electronics, soldering, sewing, and so much more!
 

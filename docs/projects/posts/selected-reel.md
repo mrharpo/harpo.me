@@ -6,3 +6,6 @@ tags:
 ---
 
 A quick review with some of the interesting projects I’ve done over the years!
+
+![](../../assets/Harpo-wall.jpg){ width="500" }
+<!-- more -->

@@ -6,10 +6,11 @@ tags:
 ---
 
 Flashback Friday to that time I toured a 2 person show around Northern California in "Greater Tuna"! A show about the world of Tuna, Texas: third smallest town in the state.
+![](../../assets/892248_2985666656613_1489999958_o.jpg){ width="500" }
+<!-- more -->
 
 In addition to playing over 20 characters, we were also the crew, and assembled the set at every performing space! It was quite a wild journey, but so much fun!
 
-![](../../assets/892248_2985666656613_1489999958_o.jpg)
 ![](../../assets/892212_2985667256628_403884632_o.jpg)
 ![](../../assets/902049_506114469449631_798838221_o.jpg)
 ![](../../assets/tuna-17.jpg)

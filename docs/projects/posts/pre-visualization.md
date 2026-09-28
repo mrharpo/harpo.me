@@ -8,10 +8,8 @@ tags:
 # Previz
 
 99% of the work is done before the audience enters the theater.
-![Performing arts center 3D model](../../assets/ECHS-previs_floor_plan.jpg)
-/// caption
-3D model of a performing arts center
-///
+
+![Performing arts center 3D model](../../assets/ECHS-previs_floor_plan.jpg){ width="500" }
 <!-- more -->
 
 Theatre is hard. It is a mammoth undertaking, with dozens of specialized artists, all working together to produce a single (seemingly spontaneous) work of art .

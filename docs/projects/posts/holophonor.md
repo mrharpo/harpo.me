@@ -6,9 +6,12 @@ tags:
   - music
 ---
 
-Introducing the [***Holophonor***](https://github.com/quaternionmedia/holophonor) an open source, live multi-looping instrument, designed to unleash creative expression and capture improvisations to build musical ideas like blocks, with any combination of hardware and software!
+Introducing the [***Holophonor***](https://github.com/quaternionmedia/holophonor)
 
-![   Holophonor  , running on a Novation Launchpad ](../../assets/launchpad.jpg) Holophonor , running on a Novation Launchpad
+An open source, live multi-looping instrument, designed to unleash creative expression and capture improvisations to build musical ideas like blocks, with any combination of hardware and software!
+![Holophonor  , running on a Novation Launchpad ](../../assets/launchpad.jpg){ width="600" }
+<!-- more -->
+
 
 Enjoy this collection of ***Holophonor*** performances!
 

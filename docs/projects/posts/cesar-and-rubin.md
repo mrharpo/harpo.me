@@ -4,11 +4,15 @@ date: 2021-07-22
 tags:
   - theater
   - tech
+  - lighting
+  - sound
+  - projections
 ---
+A musical about Cesar Chavez, written by Ed Begely Jr.
 
-![](../../assets/Cesar-and-Ruben.png)
+![](../../assets/Cesar-and-Ruben.png){ width="300" }
+<!-- more -->
 
-### A musical by Ed Begely Jr.
 
 Regional theatrical premiere of [Ed Begley Jr.](https://www.imdb.com/name/nm0000893/)’s musical about the life of Cesar Chavez, and his efforts with reporter Ruben Salazar to aid farm workers in gaining fair wages and treatment in early 1960s California. The show is presented in English with songs in Spanish, and English supertitles.
 

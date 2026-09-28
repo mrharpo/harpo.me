@@ -8,47 +8,65 @@ tags:
 
 This year for Halloween, I turned my apartment building into a…
 
-## Giant Cat Face!!!
+![Giant cat face](../../assets/tocCATa.gif)
 
-#### Hardware
+***Giant Cat Face!!!***
 
-- 1100 x WS2812b - Individually addressable pixels
+<!-- more -->
+## The Process
 
-  - 3 x 300 pixel PCB
-  - 4 x 50 pixel individual “Christmas Light” form factor
-- 3 x 5V 30A (150W) Power supplies
-- 3 x esp32
+=== "The initial concept"
+    Design and planning
+    ![ Original concept art ](../../assets/20211013_154031.jpg){ align=right, width="400" }
 
-  - esp8266
-  - esp32
-  - WT32-ETH01 (wired ethernet)
-- Enttec DMX USB Pro mk2
-- 2 x LED DMX PARs
-- Eliminator ED15 - 4 channel DMX dimmer pack
-- 2 x Light up cardboard cat eyes
-- Lots of extension cords, connectors, and DMX cables!
+=== "The Hardware"
+    ### Hardware
+    All hardware obtained either for free, or purchased for in previous years.
 
-![ Original concept art ](../../assets/20211013_154031.jpg) Original concept art
+    Total new gear purchased: $0.00
 
-All hardware obtained either for free, or purchased for in previous years.
+    #### Lights
 
-Total new gear purchased: $0.00
+    - 1100 x WS2812b - Individually addressable pixels
+        - 3 x 300 pixel PCB
+        - 4 x 50 pixel individual “Christmas Light” form factor
+    - 2 x LED DMX PARs
 
-#### Software
+    #### Controllers
+    - 3 x esp32
+        - esp8266
+        - esp32
+        - WT32-ETH01 (wired ethernet)
+    - Enttec DMX USB Pro mk2
+    - Eliminator ED15 - 4 channel DMX dimmer pack
+        - 2 x Light up cardboard cat eyes
 
-The entire show was created using open source software: especially [WLED](https://kno.wled.ge) and [xLights](https://xlights.org).
+    #### Other
+    - 3 x 5V 30A (150W) Power supplies
+    - Lots of extension cords, connectors, and DMX cables!
 
-#### Music credits
 
-J.S. Bach - Toccata and Fugue in D Minor (BWV 565)
+=== "The Software"
+    Controlling it
 
-Recording provided courtesy of [smallchurchmusic.com](https://www.smallchurchmusic.com/Song_Display-New.php?SID=2081)
+    ### Software
 
-### Build
+    The entire show was created using open source software: especially [WLED](https://kno.wled.ge) and [xLights](https://xlights.org).
 
-[Full build instructions available on ElectroMaker.io](https://www.electromaker.io/project/view/cheshire-cat-apartment-building-halloween-light-show)
+=== "The Music"
+    Putting it all together
+    ### Music
 
-I also made a “Behind the Scenes” video!
+    J.S. Bach - Toccata and Fugue in D Minor (BWV 565)
+
+    Recording provided courtesy of [smallchurchmusic.com](https://www.smallchurchmusic.com/Song_Display-New.php?SID=2081)
+
+=== "The Build"
+    ### Build
+
+    [Full build instructions available on ElectroMaker.io](https://www.electromaker.io/project/view/cheshire-cat-apartment-building-halloween-light-show)
+
+    I also made a “Behind the Scenes” video!
 
 ### Show Files
 
