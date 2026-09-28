@@ -1,5 +1,5 @@
 ---
-title: 'About me'
+title: About me
 ---
 
 ![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/C74F8DC3-0360-4544-9E4D-53AC697E3590.jpeg){ align="right", width="400" }

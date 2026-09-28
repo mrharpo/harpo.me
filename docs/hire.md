@@ -1,10 +1,10 @@
 ---
-title: 'hire'
+title: Hire me
 ---
+# Hire Me!
 
-![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/1776_thumb.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/1776_thumb.jpg){ align="right" width="300" }
 
-# Book an appointment.
 
 *I love sharing my knowledge with others!*
 
@@ -23,9 +23,10 @@ With my expertise in a wide range of fields, I will help you to increase your sk
 
 No matter your current skill level, everyone can benefit from my diverse knowledge and wide range of experiences, and I will guide you to achieving your objectives, and expanding your horizons!
 
-![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/P8314378.jpg)
 
 ## Contact me!
+
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/image3.jpeg){ align="right" width="600" }
 
 harpo@harpo.me  
 916.674.2776  
