@@ -7,7 +7,7 @@ tags:
 
 Live, from Big Sky, Montana, The [OomPah Kings](/oompah-kings) officially kicked off the 2021 Oktoberfest season with an incredible set of polka, waltzes, mazurkas, schottisches, and even a little rock ‘n roll!
 
-![](../../assets/OomPah+Kings+-+poster.webp){ width="500" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/OomPah+Kings+-+poster.webp){ width="500" }
 <!-- more -->
 
 Check out our live streamed performance below! (Bring your own beer!)

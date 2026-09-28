@@ -2,11 +2,11 @@
 title: 'sponsor'
 ---
 
-![](../../assets/P8314378.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/P8314378.jpg)
 
 # Sponsor Harpo!
 
-![](../../assets/ECEF6630-6E3B-43A5-9FA7-879B10532E76.jpeg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/ECEF6630-6E3B-43A5-9FA7-879B10532E76.jpeg)
 
 # Thanks!
 

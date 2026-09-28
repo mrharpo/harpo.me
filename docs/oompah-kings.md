@@ -2,7 +2,7 @@
 title: 'OomPah Kings'
 ---
 
-![](../../assets/242392207_3153389374881384_2590466301058065560_n.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/242392207_3153389374881384_2590466301058065560_n.jpg)
 
 # **The OomPah Kings**
 

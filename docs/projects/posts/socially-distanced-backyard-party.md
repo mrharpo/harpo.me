@@ -6,7 +6,7 @@ tags:
 ---
 Even in the darkest of times, there’s still a little light somewhere! When in a pandemic, it’s important to remember we’re all in this together, and it’s even more important to celebrate when we can! (Safely, of course)
 
-![](../../assets/ELD-backyard.webp){ width="500" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/ELD-backyard.webp){ width="500" }
 <!-- more -->
 
 ### Don’t stop the music!

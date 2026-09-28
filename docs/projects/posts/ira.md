@@ -6,7 +6,7 @@ tags:
 ---
 Realtime LED pixel controll with Ira
 
-![ Realtime LED pixel controll ](../../assets/ira.gif)
+![ Realtime LED pixel controll ](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/ira.gif)
 <!-- more -->
 
 ### Ira - an **Interactive**, **Reactive**, **Autonomous** LED Controller
@@ -32,7 +32,7 @@ Theses are just a few examples of variable parameters that can be controlled dyn
 
 ### Reliability
 
-![ One Arduino to controll the lights, another to listen the DMX signal ](../../assets/ira-circuit.jpg) One Arduino to controll the lights, another to listen the DMX signal
+![ One Arduino to controll the lights, another to listen the DMX signal ](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/ira-circuit.jpg) One Arduino to controll the lights, another to listen the DMX signal
 
 For home applications, a simple python script running a web server is enough to control the application from a phone over a wifi network. Any reliability issues can be dealt with by resending a message.
 

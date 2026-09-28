@@ -6,7 +6,7 @@ tags:
 ---
 For over 20 years, I have produced videos, music, projections, and many other art works in the Sacramento area, and beyond!
 
-![  dell’Arte :  Italian  For the art /  For the business ](../../assets/dellarte_logo-01__50__.jpg){ width="500" }
+![  dell’Arte :  Italian  For the art /  For the business ](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/dellarte_logo-01__50__.jpg){ width="500" }
 
 <!-- more -->
 

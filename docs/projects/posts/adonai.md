@@ -9,7 +9,7 @@ tags:
 
 I played tenor saxophone with this band. All events played in Croatia and Bosnia, summer 2011.
 
-![](../../assets/Screenshot+from+2021-06-24+17-21-29.webp){ width="500" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/Screenshot+from+2021-06-24+17-21-29.webp){ width="500" }
 <!-- more -->
 
 Group organized and sponsored through [*Proclaim! International*](https://ProclaimInternational.com)

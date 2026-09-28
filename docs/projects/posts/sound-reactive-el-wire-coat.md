@@ -6,7 +6,7 @@ tags:
 ---
 A sound reactive EL wire coat I made for *Burning Man*
 
-![](../../assets/_1220578.jpg){ width="300" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220578.jpg){ width="300" }
 
 <!-- more -->
 # EL wire coat
@@ -30,21 +30,21 @@ Construction was very straightforward: a sewing needle, clear thread, several th
 
 I sewed the sound module to live inside the jacket pocket for easy switch access, with the battery pack in the opposite pocket.
 
-![](../../assets/_1220633-Edit.jpg)
-![](../../assets/_1220624-Edit.jpg)
-![](../../assets/_1220616.jpg)
-![](../../assets/_1220615.jpg)
-![](../../assets/_1220606.jpg)
-![](../../assets/_1220603.jpg)
-![](../../assets/_1220597-Edit.jpg)
-![](../../assets/_1220592-Edit.jpg)
-![](../../assets/_1220588.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220633-Edit.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220624-Edit.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220616.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220615.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220606.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220603.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220597-Edit.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220592-Edit.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/_1220588.jpg)
 
 In the end, it was a fantastic learning project that taught me so much about electronics, soldering, sewing, and so much more!
 
 It currently lives in my closet, awaiting a return to the playa, or wherever else it’s needed.
 
-![](../../assets/gunther_sax.jpg)
-![](../../assets/1292844_579932542044304_2075747638_o.jpg)
-![](../../assets/P8314378.jpg)
-![](../../assets/1932529_10100256497064883_1534115431_o.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/gunther_sax.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/1292844_579932542044304_2075747638_o.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/P8314378.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/1932529_10100256497064883_1534115431_o.jpg)

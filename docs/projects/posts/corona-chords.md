@@ -6,7 +6,7 @@ tags:
 ---
 When you want to play music, but can’t get together!
 
-![](../../assets/124597629_413931079604169_2116291682545999526_n.jpg){ width="300" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/124597629_413931079604169_2116291682545999526_n.jpg){ width="300" }
 
 <!-- more -->
 
@@ -16,9 +16,9 @@ I was chosen as one of several Sacramento area musicians and artist to write a s
 
 Here’s the song I wrote, performed, and produced: *Care About You*
 
-![](../../assets/124268371_365310551415234_3246849722528747604_n.jpg)
-![](../../assets/124201392_1797166180421821_4547913841625293697_n.jpg)
-![](../../assets/img_0385.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/124268371_365310551415234_3246849722528747604_n.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/124201392_1797166180421821_4547913841625293697_n.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/img_0385.jpg)
 
 Collaborating during lockdown conditions was certainly a difficult challenge. The experience taught us all lots, and allowed some unique opportunities to create art in new ways!
 

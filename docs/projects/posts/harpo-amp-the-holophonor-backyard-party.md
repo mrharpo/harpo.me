@@ -7,7 +7,7 @@ tags:
 
 When the shows are all still cancelled, bring the shows to the people!
 
-![Holophonor Backyard Party](../../assets/Holophonor-backyard.webp){ width="500" }
+![Holophonor Backyard Party](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/Holophonor-backyard.webp){ width="500" }
 <!-- more -->
 
 ### The Holophonor goes on Tour!

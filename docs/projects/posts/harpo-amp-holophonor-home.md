@@ -10,7 +10,7 @@ A livestream series of [Holophonor](https://quaternion.media/holophonor) concert
 
 Performed from my living room, broadcast to the world!
 
-![](../../assets/Harpo&HoloAtHome.webp){ width="500" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/Harpo&HoloAtHome.webp){ width="500" }
 <!-- more -->
 
 [▶ Watch on YouTube](https://www.youtube.com/playlist?list=PLlyE-DRYj-cCy5KLdOsICnUxMYozC6rid)

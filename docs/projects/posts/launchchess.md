@@ -7,14 +7,14 @@ tags:
 # LaunchChess
 Play chess with a Novation Launchpad
 
-![](../../assets/launchchess-social.jpg){ width="500" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/launchchess-social.jpg){ width="500" }
 
 <!-- more -->
 ## About
-![](../../assets/20210424_132456.jpg)
-![](../../assets/20210423_180344.jpg)
-![](../../assets/20210423_180339.jpg)
-![](../../assets/20210410_093237.jpg)
-![](../../assets/20210313_152145.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/20210424_132456.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/20210423_180344.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/20210423_180339.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/20210410_093237.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/20210313_152145.jpg)
 
 ## Process

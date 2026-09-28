@@ -8,7 +8,7 @@ tags:
 
 This year for Halloween, I turned my apartment building into a…
 
-![Giant cat face](../../assets/tocCATa.gif)
+![Giant cat face](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/tocCATa.gif)
 
 ***Giant Cat Face!!!***
 
@@ -17,7 +17,7 @@ This year for Halloween, I turned my apartment building into a…
 
 === "The initial concept"
     Design and planning
-    ![ Original concept art ](../../assets/20211013_154031.jpg){ align=right, width="400" }
+    ![ Original concept art ](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/20211013_154031.jpg){ align=right, width="400" }
 
 === "The Hardware"
     ### Hardware

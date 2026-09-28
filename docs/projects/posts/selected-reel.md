@@ -7,5 +7,5 @@ tags:
 
 A quick review with some of the interesting projects I’ve done over the years!
 
-![](../../assets/Harpo-wall.jpg){ width="500" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/Harpo-wall.jpg){ width="500" }
 <!-- more -->

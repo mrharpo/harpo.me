@@ -10,7 +10,7 @@ tags:
 ---
 A musical about Cesar Chavez, written by Ed Begely Jr.
 
-![](../../assets/Cesar-and-Ruben.png){ width="300" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/Cesar-and-Ruben.png){ width="300" }
 <!-- more -->
 
 
@@ -27,15 +27,15 @@ Sacramento, CA
 - Sound Design
 - Technical Direction
 
-![](../../assets/c_r-poster.png)
-![](../../assets/untitled-f036838.jpg)
-![](../../assets/untitled-f012533.jpg)
-![](../../assets/untitled-f056276.jpg)
-![](../../assets/untitled-f049565.jpg)
-![](../../assets/untitled-f035543.jpg)
-![](../../assets/untitled-f087924.jpg)
-![](../../assets/untitled-f059971.jpg)
-![](../../assets/untitled-f101152.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/c_r-poster.png)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f036838.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f012533.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f056276.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f049565.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f035543.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f087924.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f059971.jpg)
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/untitled-f101152.jpg)
 
 In addition, I created a custom control library to interface between the lighting, sound, and projections to keep everything synchronized, and fire all cues from a single stage management system (QLab).
 
