@@ -6,7 +6,7 @@ title: 'hire'
 
 # Book an appointment.
 
-#### I love sharing my knowledge with others!
+*I love sharing my knowledge with others!*
 
 Schedule a session with me to learn something new!
 
@@ -23,12 +23,9 @@ With my expertise in a wide range of fields, I will help you to increase your sk
 
 No matter your current skill level, everyone can benefit from my diverse knowledge and wide range of experiences, and I will guide you to achieving your objectives, and expanding your horizons!
 
-![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/621597_868904975563_1074965140_o.jpg)
-
 ![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/P8314378.jpg)
 
 ## Contact me!
 
 harpo@harpo.me  
 916.674.2776  
-916.Mr.Harpo

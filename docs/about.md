@@ -19,7 +19,14 @@ I’m a:
 - [projection designer](https://quaternion.media/projections)
 - and all around artist!
 
-Co-founder of [Quaternion Media](https://quaternion.media)
+### Current Positions
+* Senior Developer, [GBH Archives](https://gbh.org/foundation/archives)
+* Technical Director, [El Camino High School Performing Arts Center](https://hga.com/projects/el-camino-fundamental-high-school-center-for-performing-arts/)
+* Co-founder of [Quaternion Media](https://quaternion.media)
+
+
+## Projects
+Here are some [projects](projects/index.md) I've worked on.
 
 
 ## **Bio**
@@ -42,6 +49,8 @@ Harpo is currently the Technical Director for the El Camino High School Performi
 
 With his company, *dell’Arte Productions*, he creates video and audio of all kinds in the form of commercials, documentaries, albums, music videos, industrial films, and many others. His video work started long before forming a company or obtaining a degree in Digital Media, and represents a lifelong passion for capturing excellent images and sounds.
 
+## Photos
+
 ![Burning Man, 2014](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/gunther_sax.jpg){data-gallery="Harpo" width="200" }
 ![Holophonor - 2017](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/h1_sync1b.jpg){data-gallery="Harpo" width="200" }
 ![Straw Hat Pizza](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/170321-Elaine_Lord_Four-062.jpg){data-gallery="Harpo" width="200" }
@@ -55,3 +64,4 @@ With his company, *dell’Arte Productions*, he creates video and audio of all k
 ![image3.jpeg](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/image3.jpeg){data-gallery="Harpo" width="200" }
 ![67186_596116520813_2222940_n.jpg](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/67186_596116520813_2222940_n.jpg){data-gallery="Harpo" width="200" }
 ![Harpo-sax+small.jpg](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/Harpo-sax_small.jpg){data-gallery="Harpo" width="200" }
+![](https://s3.us-west-1.amazonaws.com/harpo.me-648932551176-us-west-1-an/assets/135306_10100145984398153_1750707807_o.jpg){data-gallery="Harpo" width="200" }
